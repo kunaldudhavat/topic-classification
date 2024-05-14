@@ -23,7 +23,7 @@ This repository contains my project on training a linear classifier for topic cl
 The linear classifier in this project has parameters `W` (weight matrix) and `b` (bias vector), where `d` is the dimension of the input and `K` is the number of label types. Given a document represented as `x`, the model defines a distribution over `{1, ..., K}` using the softmax function:
 
 <p align="center">
-  <img src="https://github.com/kunaldudhavat/topic-classification/blob/main/softmax.png" alt="softmax" title="Softmax">
+  <img src="https://github.com/kunaldudhavat/topic-classification/blob/main/images/softmax.png" alt="softmax" title="Softmax">
 </p>
 
 where `w_y` is the `y`-th column of `W`.
