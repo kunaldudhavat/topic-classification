@@ -1,5 +1,9 @@
 # Topic Classification with Linear Classifier
 
+<p align="center">
+  <img src="https://github.com/kunaldudhavat/topic-classification/blob/main/images/topic-classifier.png" alt="Topic classification" title="Topic classification">
+</p>
+
 ## Introduction
 
 This repository contains my project on training a linear classifier for topic classification. The goal of this project is to classify documents into different topics using a linear model. The implementation is done in Python using Jupyter Notebook.
